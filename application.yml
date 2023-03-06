@@ -4,12 +4,7 @@ eureka:
     fetch-registry: true
    
     
-microservice:
-  payment-service:
-    endpoints:
-      endpoint:
-        uri: http://PAYMENT-SERVICE/payment/savePayment
-  
+
         
 
 
